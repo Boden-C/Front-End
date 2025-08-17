@@ -1,0 +1,7 @@
+# robots.txt for Neo Accounting Firm
+User-agent: *
+Allow: /
+
+Allow: /assets/
+
+Sitemap: /sitemap.xml

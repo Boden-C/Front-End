@@ -1,0 +1,10 @@
+# robots.txt for Neo Accounting Firm
+User-agent: *
+Allow: /
+
+# Media and assets
+Allow: /assets/
+
+# Crawl-delay not officially supported by Google; omit for best practice
+
+Sitemap: /sitemap.xml
